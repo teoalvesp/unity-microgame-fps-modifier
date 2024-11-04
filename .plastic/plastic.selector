@@ -1,0 +1,4 @@
+repository "FPS Microgame Modifier@Theusz_Dev@cloud"
+  path "/"
+    br "/main"
+    co "/main"
